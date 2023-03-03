@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science & VG
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me just DM me here or else IF YOU WANT TO CONTACT ME for personal purposes (my website:(https://gaezvr.github.io/SummarizationUsingAI/)
-- 💬 Ask me about C# / Unity, C, JS, HTML, CSS, Scilab, C++, Pyhton and more...
+- 💬 Ask me about C# / Unity, C, JS, HTML, CSS, Scilab, C++, Pyhton, AI and more...
 
 
 
