@@ -2,7 +2,7 @@
 - 💞️ I’m looking for Offers!
 - 📫 How to reach me: ivitlogg@gmail.com || gaezvr#8986 on Discord.
 - 💬 Ask me about C# / Unity, C, JS, HTML, CSS, Scilab, C++, Pyhton, AI, Java, Maths, Computer Science ...
-
+- 🍷  Always Willing To Learn And Improve.
 
 
 <!---
