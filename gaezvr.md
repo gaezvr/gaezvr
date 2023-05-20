@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaezvr
-- 📫 How to reach me: ivitlogg@gmail.com || gaezvr#8986 on Discord.
+- 📫 How to reach me: gaezvr#8986 on Discord.
 - 💬 Ask me about Anything : C, JS, HTML, CSS, C++, MongoDB, C#, Py, Maths ...
 - 💡 Open to collaborating on projects and innovative ideas.
 
