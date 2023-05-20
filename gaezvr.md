@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaezvr
 - 📫 How to reach me: ivitlogg@gmail.com || gaezvr#8986 on Discord.
-- 💬 Ask me about Anything : C, JS, HTML, CSS, C++, MongoDB ...
+- 💬 Ask me about Anything : C, JS, HTML, CSS, C++, MongoDB, C#, Py, Maths ...
 
 <!---
 gaezvr/gaezvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
